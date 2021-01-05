@@ -1,7 +1,7 @@
 # punchy.vim
 A colorful, vibrant colorscheme pack for vim with a cyberpunk variant :zap:
 
-![punchy-vim-1.0.0.zip](https://img.shields.io/badge/-Download%20punchy.vim-success?style=for-the-badge)
+[![punchy-vim-1.0.0.zip](https://img.shields.io/badge/-Download%20punchy.vim-success?style=for-the-badge)](https://github.com/aadhav-n1/punchy.vim/archive/1.0.0.zip)
 
 # Installation:
 
