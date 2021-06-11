@@ -20,7 +20,7 @@ A colorful, vibrant colorscheme pack for vim with a cyberpunk variant :zap:
 
 **Using vim-plug:**
 
-`Plug 'aadhav-n1/punchy.vim'`
+`Plug 'burntcarrot/punchy.vim'`
 
 **Install Manually:**
 1. Download the colorscheme here: [punchy-vim-1.0.0.zip](https://github.com/aadhav-n1/punchy.vim/archive/1.0.0.zip)
